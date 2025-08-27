@@ -1,5 +1,3 @@
-# llm-first-steps-cpu
-# amit-AI
 # LLM First Steps (CPU) — by @Amit-AI
 
 I tried LLaMA first and hit issues on my laptop. So I learned the basics with a tiny model (distilgpt2) on CPU:
