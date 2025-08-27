@@ -2,8 +2,8 @@
 
 **Open in Colab:**
 
-[![Open In Colab](https://colab.research.google.com/drive/1623tOrqXijmmRNu6rfmBU69j7xQHHDcn?usp=sharing)](https://colab.research.google.com/github/amit-1199/llm-first-steps-cpu/blob/main/check_gpu_cpu.ipynb)
-[![Open In Colab](https://colab.research.google.com/drive/138fHfUJywKL7VcFV7pKD5USGayKYvCce?usp=sharing)](https://colab.research.google.com/github/amit-1199/llm-first-steps-cpu/blob/main/distilgpt2.ipynb)
+[![check_gpu_cpu](https://colab.research.google.com/drive/1623tOrqXijmmRNu6rfmBU69j7xQHHDcn?usp=sharing)](https://colab.research.google.com/github/amit-1199/llm-first-steps-cpu/blob/main/check_gpu_cpu.ipynb)
+[![first llm run](https://colab.research.google.com/drive/138fHfUJywKL7VcFV7pKD5USGayKYvCce?usp=sharing)](https://colab.research.google.com/github/amit-1199/llm-first-steps-cpu/blob/main/distilgpt2.ipynb)
 
 **Files**
 - [`check_gpu_cpu.py`](https://github.com/amit-1199/llm-first-steps-cpu/blob/main/check_gpu_cpu.py)
