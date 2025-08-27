@@ -1,5 +1,9 @@
 # LLM First Steps (CPU) — by @Amit-AI
 
+I tried LLaMA first and hit issues on my laptop. So I learned the basics with a tiny model (distilgpt2) on CPU:
+1) Check if you have GPU or CPU
+2) Download → load → prompt → response
+
 **Open in Colab:**
 
 [![check_gpu_cpu](https://colab.research.google.com/drive/1623tOrqXijmmRNu6rfmBU69j7xQHHDcn?usp=sharing)](https://colab.research.google.com/github/amit-1199/llm-first-steps-cpu/blob/main/check_gpu_cpu.ipynb)
@@ -13,23 +17,6 @@
 
 ![Terminal output showing CUDA False and a short model response](/img-terminal.png)
 
-
-I tried LLaMA first and hit issues on my laptop. So I learned the basics with a tiny model (distilgpt2) on CPU:
-1) Check if you have GPU or CPU
-2) Download → load → prompt → response
-
-**Open in Colab:**  
-[![Open In Colab]
-(https://colab.research.google.com/assets/colab-badge.svg)]
-(
-https://colab.research.google.com/github/Amit-AI/llm-first-steps-cpu/blob/main/notebooks/check_gpu_cpu.ipynb
-https://colab.research.google.com/github/Amit-AI/llm-first-steps-cpu/blob/main/notebooks/distilgpt2.ipynb
-)
-
-
-## Files
-- `check_gpu_cpu.py` — prints if CUDA/GPU is available (name, VRAM), else CPU.
-- `distilgpt2_quickstart.py` — minimal Transformers pipeline on CPU.
 
 ## How to run (local)
 ```bash
